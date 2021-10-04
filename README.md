@@ -1,6 +1,4 @@
-![](debug.jpeg)
-
-# "Debugging is like being the detective in a crime movie where you are also the murderer.” -Filipe Fortes
+# <img src="debug.jpeg" width="400" align="right"> "Debugging is like being the detective in a crime movie where you are also the murderer.” -Filipe Fortes 
 
 **They say that debugging is a mental process that involves discovering, analysing, and solving problems.
 IEEE SB CEM as part of IEEE DAY Celebrations 2021 brings you a fantabulous Debugging Competition.
